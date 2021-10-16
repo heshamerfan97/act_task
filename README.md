@@ -1,16 +1,11 @@
 # act_task
 
-A flutter project for act_task.
+A flutter project for act_task where you can see a list of Users and posts.  
+You can search in the user list by the user name, and also you can find a post author by tapping on a post.  
+This app uses BLoC for state mangement and the MVVM approach.
 
-## Getting Started
+## Releases
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can find the versions released for this project in this folder:
+[releases](https://github.com/heshamerfan97/act_task/tree/master/releases)
+ - [V 1.0.0+1](https://github.com/heshamerfan97/act_task/blob/master/releases/v1.0.0%2B1.apk)
